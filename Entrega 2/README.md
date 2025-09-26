@@ -31,7 +31,7 @@ O escopo deste trabalho cobre a infraestrutura em nuvem (IaaS) da LojaZeta, incl
 
 A defesa em profundidade garante que a falha de um único controle não resulte em um comprometimento total. Propomos a seguinte arquitetura:
 
-* **Diagrama Visual:** Veja o arquivo `diagrama.mmd` para uma representação gráfica detalhada.
+* **Diagrama Visual:** Veja o arquivo `diagrama.png` para uma representação gráfica detalhada.
 
 * **Camada 1: Perímetro**
     * **Controle:** Web Application Firewall (WAF) e CDN.
